@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hotelvista/sales.dart';
+import 'package:hotelvista/views/sales.dart';
 
 void main() {
   runApp(const MyApp());
